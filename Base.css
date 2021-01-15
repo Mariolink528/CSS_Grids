@@ -3,8 +3,8 @@
 /* Use color pallete for background and text colors
 change the font family to custom font*/
 body {
-    background: rgb(19, 19, 19);
-    color: #fff;
+    background: #f1fcfd;
+    color:#052b2e;
     font-family: 'Noto Sans', sans-serif;
 }
 /*modify background and and foreground using shades, keep high contrast */
@@ -13,9 +13,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #353535;
+    background: #7fe6f0;
     font-size: 3rem;
-    color: #fff;
+    color: #052b2e;
     box-shadow: rgba(3, 8, 20, 0.1) 0px 0.15rem 0.5rem, rgba(2, 8, 20, 0.1) 0px 0.075rem 0.175rem;
     height: 100%;
     width: 100%;
