@@ -1,11 +1,11 @@
 /* Select own font */
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 /* Use color pallete for background and text colors
 change the font family to custom font*/
 body {
     background: #f1fcfd;
     color:#052b2e;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 /*modify background and and foreground using shades, keep high contrast */
 .card {
